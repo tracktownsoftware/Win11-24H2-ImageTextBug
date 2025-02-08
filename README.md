@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This repository contains a reproducible test case demonstrating a text rendering issue introduced in Windows 11 24H2.Previously, the provided C# code generated and compared images with rendered text pixel-perfectly. However, after updating to *Windows 11 24H2*, the same code now produces inconsistent results, failing pixel-by-pixel comparisons.
+This repository contains a reproducible test case demonstrating a text rendering issue introduced in Windows 11 24H2. Previously, the provided C# code generated and compared images with rendered text pixel-perfectly. However, after updating to **Windows 11 24H2**, the same code now produces inconsistent results, failing pixel-by-pixel comparisons.
 
 ## Steps to Reproduce ##
 
